@@ -1,9 +1,1 @@
-{
-  "profiles" : [{
-    "fname":"neha",
-    "lname":"patel",
-    "userid":"158581",
-   "password": "abc",
-    "address":"19,JAGANNATH PARK SOCIETY JIVR"}
-  ]
-}
+{"fname":"neha","lname":"patel","userid":"158581","email":"sxx,ol","password":"abc","address":"19,JAGANNATH PARK SOCIETY JIVR"}
